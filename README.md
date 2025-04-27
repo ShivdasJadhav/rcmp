@@ -49,4 +49,4 @@ It provides a complete digital solution for managing and showcasing academy oper
 **Events**
 ![rcmp](./screenshots/events.png)
 **Admin panel**
- ![admin](tc_req.png) ![admin](admission.png) ![admin](enq_1.png) ![admin](enq_2.png)![admin](admission_2.png) ![admin](jobs.png)
+![admin](./screenshots/tc_req.png) ![admin](./screenshots/admission.png) ![admin](./screenshots/enq_1.png) ![admin](./screenshots/enq_2.png)![admin](./screenshots/admission_2.png) ![admin](./screenshots/jobs.png)
